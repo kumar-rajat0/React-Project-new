@@ -34,6 +34,6 @@ Project structure : ├── src
 └── README.md
 
 
-How to Run This Project :-  1).npm install 
+**How to Run This Project** :-  1).npm install 
                             2).npm run dev
                             
