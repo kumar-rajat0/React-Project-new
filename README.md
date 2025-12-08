@@ -4,7 +4,7 @@
                         1). Browse products
                         2), View product details
                         3). Search products
-                        Add/remove items from the cart
+                        4). Add/remove items from the cart
                         Adjust cart quantities
                         Proceed to checkout
                         Place a dummy order
