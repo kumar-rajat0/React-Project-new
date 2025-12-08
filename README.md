@@ -1,5 +1,5 @@
 Githib link :- 
-Entire folder Link  :- 
+Entire folder Link  :- https://drive.google.com/drive/folders/1HXZOg1awi7TdBtC_CxULNfkXwyaZYUUT?usp=drive_link
 Project overviwe : ShoppyGlobe is a basic e‑commerce application where users can:
 Browse products
 View product details
