@@ -11,3 +11,4 @@ export default function NotFound() {
     </div>
   );
 }
+// when item not found
