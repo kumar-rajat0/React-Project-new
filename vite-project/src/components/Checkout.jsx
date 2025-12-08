@@ -13,7 +13,7 @@ export default function Checkout() {
 
   const handlePlaceOrder = (e) => {
     e.preventDefault();
-    // simple validation
+    // ---simple validation
     if (!form.name || !form.email || !form.address) {
       setMessage("Please complete all fields.");
       return;
