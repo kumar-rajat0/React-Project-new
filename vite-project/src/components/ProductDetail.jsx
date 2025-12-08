@@ -77,5 +77,5 @@ export default function ProductDetail() {
 }
 
 ProductDetail.propTypes = {
-  // Uses route params
+  // Uses route 
 };
