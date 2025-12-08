@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+// use Fetch
 export default function useFetchProducts() {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
