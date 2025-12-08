@@ -1,5 +1,5 @@
 Githib link :- 
-Entire folder :- 
+Entire folder Link  :- 
 Project overviwe : ShoppyGlobe is a basic e‑commerce application where users can:
 Browse products
 View product details
