@@ -1,6 +1,4 @@
-/* ------------------------------------------------------------------
-   GLOBAL RESET + BASE STYLING
-------------------------------------------------------------------- */
+
 * {
   margin: 0;
   padding: 0;
@@ -17,14 +15,14 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Global utility */
+
 .container {
   width: 90%;
   max-width: 1300px;
   margin: auto;
 }
 
-/* Smooth fade animation */
+
 .fade-in {
   animation: fadeIn 0.7s ease-in-out;
 }
@@ -39,9 +37,7 @@ html {
   }
 }
 
-/* ------------------------------------------------------------------
-   HEADER / NAVBAR
-------------------------------------------------------------------- */
+
 header {
   background: #ffffff;
   padding: 16px 0;
@@ -76,9 +72,7 @@ nav a:hover {
   transform: translateY(-2px);
 }
 
-/* ------------------------------------------------------------------
-   PRODUCT LIST GRID
-------------------------------------------------------------------- */
+
 .product-list {
   margin-top: 35px;
   display: grid;
@@ -86,9 +80,7 @@ nav a:hover {
   gap: 25px;
 }
 
-/* ------------------------------------------------------------------
-   PRODUCT CARD
-------------------------------------------------------------------- */
+
 .product-card {
   background: #ffffff;
   border-radius: 12px;
@@ -127,7 +119,7 @@ nav a:hover {
   font-weight: 600;
 }
 
-/* Buttons */
+/* Buttons-- */
 .btn {
   margin-top: 10px;
   padding: 9px 16px;
