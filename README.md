@@ -2,7 +2,7 @@
 **Entire folder Link**  :- https://drive.google.com/drive/folders/1HXZOg1awi7TdBtC_CxULNfkXwyaZYUUT?usp=drive_link
 **Project overview** : ShoppyGlobe is a basic e‑commerce application where users can:
                         1). Browse products
-                        View product details
+                        2), View product details
                         Search products
                         Add/remove items from the cart
                         Adjust cart quantities
