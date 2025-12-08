@@ -9,7 +9,7 @@
                         Proceed to checkout
                         Place a dummy order
 
-Project structure : ├── src
+**Project structure** : ├── src
 │ ├── components
 │ │ ├── Header.jsx
 │ │ ├── ProductList.jsx
