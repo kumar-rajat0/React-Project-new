@@ -3,7 +3,7 @@
 **Project overview** : ShoppyGlobe is a basic e‑commerce application where users can:
                         1). Browse products
                         2), View product details
-                        Search products
+                        3). Search products
                         Add/remove items from the cart
                         Adjust cart quantities
                         Proceed to checkout
