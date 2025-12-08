@@ -6,7 +6,7 @@
                         3). Search products
                         4). Add/remove items from the cart
                         5). Adjust cart quantities
-                        Proceed to checkout
+                        6). Proceed to checkout
                         Place a dummy order
 
 **Project structure** : ├── src
