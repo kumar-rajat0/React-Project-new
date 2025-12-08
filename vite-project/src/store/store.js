@@ -8,3 +8,4 @@ export default configureStore({
     search: searchReducer,
   },
 });
+//store.js
